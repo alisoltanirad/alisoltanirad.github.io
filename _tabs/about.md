@@ -22,15 +22,15 @@ Undergraduate (B.Sc), since 2016.
 ## Skills
 
 ```mermaid
-  journey
-    title Experience
-    section Machine Learning & Data Science
-      NLP: 5
-      Data Analysis: 4
-      Web Crawling: 4
-    section Web Development
-      Front-End: 3
-      Back-End: 4
+ journey
+  title Experience
+  section Machine Learning & Data Science
+   NLP: 5
+   Data Analysis: 4
+   Web Crawling: 4
+  section Web Development
+   Front-End: 3
+   Back-End: 4
 ```
 
 ### Languages And Libraries:
