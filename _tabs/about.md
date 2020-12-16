@@ -1,10 +1,10 @@
 ---
 title: About
 icon: fas fa-info
+mermaid: true
 order: 1
 ---
-mermaid = true
-___
+
 # About
 
 ## Profile
@@ -69,39 +69,33 @@ Undergraduate (B.Sc), since 2016.
 
 ## Certifications
 
-
 **Agile With Scrum**
 
-Udemy, _March 2020_
-
+Udemy, _March 2020_  
 [See credential](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a44f3475-75b1-441f-bc52-e8f31daae56b.pdf){: target='_blank'}
 
 
 **Business Plan**
 
-Udemy, _March 2020_
-
+Udemy, _March 2020_  
 [See credential](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6e440927-184f-4d92-91ec-46e864692c59.pdf){: target='_blank'}
 
 
 **Project Management**
 
-Udemy, _March 2020_
-
+Udemy, _March 2020_  
 [See credential](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1c5790-9044-43a7-bf7a-b820021ff14a.pdf){: target='_blank'}
 
 
 **Digital Marketing**
 
-Google Digital Garage, _August 2019_
-
+Google Digital Garage, _August 2019_  
 [See credential](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing/certificate.pdf){: target='_blank'}
 
 
 **Relational Database Design**
 
-Udemy, _August 2019_
-
+Udemy, _August 2019_  
 [See credential](https://udemy-certificate.s3.amazonaws.com/pdf/UC-KOU1QL48.pdf){: target='_blank'}
 
 
