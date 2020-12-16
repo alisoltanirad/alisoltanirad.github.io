@@ -65,6 +65,8 @@
         https://github.com/{{ site.github.username }}
       {%- elsif entry.type == 'instagram' -%}
         https://instagram.com/{{ site.instagram.username }}
+      {%- elsif entry.type == 'linkedin' -%}
+        {{ entry.url }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
         javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
@@ -74,7 +76,6 @@
         {{ entry.url }}
       {%- endif -%}
     {% endcapture %}
-  test
 
     {% if url %}
     <a href="{{ url }}" aria-label="{{ entry.type }}" {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
