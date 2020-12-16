@@ -9,7 +9,7 @@
   icon: 'fab fa-github-alt'
 -
   type: linkedin
-  con: 'fa fa-linkedin'
+  icon: 'fa fa-linkedin'
   url:  'https://www.linkedin.com/in/alisoltanirad/'
 -
   type: instagram
