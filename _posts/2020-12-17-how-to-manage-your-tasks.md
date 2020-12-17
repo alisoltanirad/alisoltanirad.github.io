@@ -3,7 +3,7 @@ title: How to Manage Your Tasks (Properly)?
 author: Ali Soltani Rad
 date: 2020-12-17 19:18:00 +0330
 categories: [Productivity]
-tags: [time-management, task-management, tasks, to-do-list, success, motivation]
+tags: [time-management, task-management]
 image: /assets/img/posts/manage-tasks.jpg
 ---
 
