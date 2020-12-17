@@ -49,6 +49,3 @@ you are not comfortable with that you can try digital methods. There are a lot
 of useful apps that help you schedule your time, make to-do lists, get focused, 
 get motivated, organize stuff, etc. Give each method a shot, then choose your 
 favorite one.
-
-
-Can you think of any other tip or trick to manage tasks? feel free to share!
