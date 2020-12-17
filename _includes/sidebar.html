@@ -50,6 +50,24 @@
 
 </div><!-- #nav-wrapper -->
 
+<div class="d-flex flex-wrap justify-content-around mt-4">
+
+  <form class="row" action="https://formspree.io/f/xjvpennr" method="post">
+
+    <div class="col-12 d-flex justify-content-center">
+      <input class="form-control" name="email" type="email" placeholder="Email">
+    </div>
+
+    <div class="col-12 d-flex justify-content-center">
+      <button class="btn btn-light btn-block" type="submit">
+          Subscribe!
+      </button>
+    </div>
+
+  </form>
+
+</div>
+
 <div class="sidebar-bottom d-flex flex-wrap justify-content-around mt-4">
 
   {% unless site.theme_mode %}
@@ -78,7 +96,8 @@
     {% endcapture %}
 
     {% if url %}
-    <a href="{{ url }}" aria-label="{{ entry.type }}" {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
+    <a href="{{ url }}" aria-label="{{ entry.type }}"
+       {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
       <i class="{{ entry.icon }}"></i>
     </a>
     {% endif %}
