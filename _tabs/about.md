@@ -5,8 +5,6 @@ mermaid: true
 order: 1
 ---
 
-# About
-
 ## Profile
 
 Ali Soltani Rad. 24 years old. Software Developer. Interested in data science, 
