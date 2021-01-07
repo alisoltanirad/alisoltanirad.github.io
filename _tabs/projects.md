@@ -12,23 +12,9 @@ Python NLP toolbox.
 [Source Code](https://github.com/alisoltanirad/reason)
 
 
-### Tingle
-
-Python audio processing tools.
-
-[Source Code](https://github.com/alisoltanirad/tingle)
-
-
-### CDA
-
-US college data Analysis.
-
-[Source Code](https://github.com/alisoltanirad/CDA)
-
-
 ### Sentiment-Analysis
 
-Sentiment analysis on small datasets using fine-tuning technique and 
+Sentiment analysis on small datasets using fine-tuning technique and
 neural networks.
 
 [Source Code](https://github.com/alisoltanirad/Sentiment-Analysis)
